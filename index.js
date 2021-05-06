@@ -5,6 +5,13 @@ const colors = [
   '#FF9800',
   '#009688',
   '#795548',
+  '#ADFF2F',
+  '#FF0000',
+  '#FF4500',
+  '#0000CD',
+  '#FFFF00',
+  '#DA70D6',
+  
 ];
 
 const randomIntegerFromInterval = (min, max) => {
